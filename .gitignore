@@ -1,0 +1,8 @@
+# Ignore all Parquet files
+*.parquet
+
+# Ignore any folders called ".ipynb_checkpoints" and their contents
+.ipynb_checkpoints/
+
+# Ignore the file specifically called "my_draft_notebook.ipynb"
+my_draft_notebook.ipynb
